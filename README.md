@@ -7,6 +7,11 @@ Ozon, Яндекс Маркете и Lamoda).
 
 **Стек:** Python (pandas, Plotly, Faker) · PostgreSQL · Google Sheets + Apps Script
 
+## 🔴 Живые демо
+
+- **[План / Факт](https://y6utb.github.io/synthetic-marketplace-analytics-pipeline/dashboard/plan_fact_dashboard.html)** — выполнение плана продаж по месяцам и брендам
+- **[Юнит-экономика](https://y6utb.github.io/synthetic-marketplace-analytics-pipeline/dashboard/unit_economics_dashboard.html)** — маржинальность, ABC-анализ, поиск и фильтрация по 4 761 SKU
+
 ## Архитектура
 
 ```
