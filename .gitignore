@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IDE / инструменты
+.claude/
+.vscode/
+.idea/
+
+# Личные файлы
+*.pdf
+docs/plan_prezentacii_sobesedovanie.md
